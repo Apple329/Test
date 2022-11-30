@@ -1,10 +1,4 @@
 # test
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-<style type="text/css">
 <!--
 body {
 	line-height: 1.2;
