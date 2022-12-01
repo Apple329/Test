@@ -9,7 +9,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="infa.files/filelist.xml">
+<link rel=File-List href="filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>da da</o:Author>
@@ -30,10 +30,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="infa.files/item0001.xml"
-target="infa.files/props002.xml">
-<link rel=themeData href="infa.files/themedata.thmx">
-<link rel=colorSchemeMapping href="infa.files/colorschememapping.xml">
+<link rel=dataStoreItem href="item0001.xml"
+target="props002.xml">
+<link rel=themeData href="themedata.thmx">
+<link rel=colorSchemeMapping href="colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -971,17 +971,17 @@ span.GramE
 	line-height:107%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("infa.files/header.html") fs;
-	mso-footnote-continuation-separator:url("infa.files/header.html") fcs;
-	mso-endnote-separator:url("infa.files/header.html") es;
-	mso-endnote-continuation-separator:url("infa.files/header.html") ecs;}
+	{mso-footnote-separator:url("header.html") fs;
+	mso-footnote-continuation-separator:url("header.html") fcs;
+	mso-endnote-separator:url("header.html") es;
+	mso-endnote-continuation-separator:url("header.html") ecs;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:42.55pt 1.0cm 2.0cm 3.0cm;
 	mso-header-margin:35.45pt;
 	mso-footer-margin:35.45pt;
 	mso-title-page:yes;
-	mso-header:url("infa.files/header.html") h1;
+	mso-header:url("header.html") h1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
