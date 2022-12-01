@@ -2302,7 +2302,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'><o
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:177.0pt;text-indent:35.4pt;line-height:150%'><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>ВЫП0ЛНИЛ<span
+style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>ВЫПОЛНИЛ<span
 style='mso-spacerun:yes'>   </span><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></span><u><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:BE'> <span lang=BE>_</span></span></u><i style='mso-bidi-font-style:
