@@ -2907,16 +2907,12 @@ style='mso-spacerun:yes'> </span>Поиск с помощью поисковы�
 line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
 "Times New Roman",serif'>Именно этот вид поисковых инструментов является
 наиболее известным и популярным среди всех пользователей сети Интернет. У
-каждого на слуху названия известных машин веб-поиска (поисковых систем) – </span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>Ya</span><span
+каждого на слуху названия известных машин веб-поиска (поисковых систем) – </span>Ya<span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>ndex</span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
-</span><span lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:
-"Times New Roman",serif;mso-ansi-language:EN-US'>Google</span><span
+</span>Google<span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
-</span><span lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:
-"Times New Roman",serif;mso-ansi-language:EN-US'>Bing</span><span
+</span>Bing<span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>.
 Чтобы поиск был наиболее эффективен, необходимо уделить внимание на следующие
 моменты:<o:p></o:p></span></p>
