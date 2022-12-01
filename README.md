@@ -3733,7 +3733,7 @@ font-family:"Times New Roman",serif'>Старченко, В. Н. Повышен�
 торможения использованием новых углерод-композиционных материалов / В. Н.
 Старченко, Н. В. Казачков. — <span class=GramE>Текст :</span> непосредственный
 // Молодой ученый. — 2020. — № 21 (311). — С. 537-541. — URL:
-https://moluch.ru/archive/311/70623/ (дата обращения: 30.11.2022).<o:p></o:p></span></p>
+<a href="https://moluch.ru/archive/311/70623/">https://moluch.ru/archive/311/70623/</a> (дата обращения: 30.11.2022).<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
@@ -3749,7 +3749,7 @@ class=SpellE>Хуажев</span> Самир <span class=SpellE>Асланови�
 эффективности торможения транспортных средств на скользких дорогах // Вестник
 Адыгейского государственного университета. Серия 4: Естественно-математические
 и технические науки. 2011. №4. URL:
-https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-transportnyh-sredstv-na-skolzkih-dorogah
+<a href="https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-transportnyh-sredstv-na-skolzkih-dorogah">https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-transportnyh-sredstv-na-skolzkih-dorogah</a>
 (дата обращения: 30.11.2022).<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
@@ -3763,33 +3763,24 @@ font-family:"Times New Roman",serif'>Зотов В.М., <span class=SpellE>Ха�
 В.Н., Шишкина Е.В., <span class=SpellE>Бумагин</span> В.В. Повышение
 эффективности торможения колёсного транспортного средства, снабжённого
 антиблокировочными системами // Известия НВ АУК. 2020. №1 (57). URL:
-https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-kolyosnogo-transportnogo-sredstva-snabzhyonnogo-antiblokirovochnymi-sistemami
+<a href="https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-kolyosnogo-transportnogo-sredstva-snabzhyonnogo-antiblokirovochnymi-sistemami">https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-kolyosnogo-transportnogo-sredstva-snabzhyonnogo-antiblokirovochnymi-sistemami</a>
 (дата обращения: 30.11.2022).<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
 text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>R.
+</span></span>R.
 Vijay, B. Surya <span class=SpellE>Rajan</span>, K. <span class=SpellE>Sathickbasha</span>,
 P. <span class=SpellE>Hariharasakthisudhan</span>, D. Lenin <span class=SpellE>Singaravelu</span>,
 S. Manoharan, P. Balaji, A.B. Mohamed Ashfaq Ahmed, P. <span class=SpellE>Baskara</span>
 <span class=SpellE>Sethupathi</span>, Influence of metal sulfide coated steel
 fibers on the friction and wear performance of brake friction composites /
-Tribology International URL: </span><a
-href="https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959"><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959</span></a><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'> (</span><span style='font-size:12.0pt;line-height:
+Tribology International URL: <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959">https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959</a> (<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'>дата</span><span style='font-size:
 12.0pt;line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:
-EN-US'> </span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>обращения</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'> 30.11.2022)<o:p></o:p></span></p>
+EN-US'> </span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>обращения</span> 30.11.2022)<o:p></o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
@@ -3801,12 +3792,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>А
 class=SpellE>Сумайдаи</span>, Ф. Р. Повышение эффективности торможения
 автомобиля увеличением мощности насосных потерь в автомобильном двигателе / Ф.
 Р. Аль-<span class=SpellE>Сумайдаи</span> // Энерго- и ресурсосбережение:
-промышленность и транспорт. – 2022. – № 2(39). – С. 50-53. – </span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>EDN</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>MUNPFX</span><span style='font-size:12.0pt;line-height:
+промышленность и транспорт. – 2022. – № 2(39). – С. 50-53. – </span>EDN MUNPFX<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'>.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
@@ -3832,7 +3818,8 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Ф
 Влияние работы <span class=SpellE>abs</span> на тормозную эффективность и
 устойчивость автомобиля // Вестник <span class=SpellE>ИрГТУ</span>. 2013. №8
 (79). URL:
-https://cyberleninka.ru/article/n/vliyanie-raboty-abs-na-tormoznuyu-effektivnost-i-ustoychivost-avtomobilya
+<a
+href="https://cyberleninka.ru/article/n/vliyanie-raboty-abs-na-tormoznuyu-effektivnost-i-ustoychivost-avtomobilya">https://cyberleninka.ru/article/n/vliyanie-raboty-abs-na-tormoznuyu-effektivnost-i-ustoychivost-avtomobilya</a>
 (дата обращения: 30.11.2022).<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
@@ -3859,7 +3846,8 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
 эффективности функционирования электронной системы активной безопасности
 автотранспортных средств // Вестник Белорусско-Российского университета. 2006.
 №3. URL:
-https://cyberleninka.ru/article/n/povyshenie-effektivnosti-funktsionirovaniya-elektronnoy-sistemy-aktivnoy-bezopasnosti-avtotransportnyh-sredstv
+<a
+href="https://cyberleninka.ru/article/n/povyshenie-effektivnosti-funktsionirovaniya-elektronnoy-sistemy-aktivnoy-bezopasnosti-avtotransportnyh-sredstv">https://cyberleninka.ru/article/n/povyshenie-effektivnosti-funktsionirovaniya-elektronnoy-sistemy-aktivnoy-bezopasnosti-avtotransportnyh-sredstv</a>
 (дата обращения: 30.11.2022).<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
@@ -3873,9 +3861,3 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>З
 ПОВЫШЕНИЕ ЭФФЕКТИВНОСТИ ТОРМОЗНОЙ СИСТЕМЫ ТРАКТОРА КЛАССА 5 ПРИ РАБОТЕ В
 СОСТАВЕ ТРАНСПОРТНОГО АГРЕГАТА. Механизация и электрификация сельского
 хозяйства. 2022;(55):205-210.<o:p></o:p></span></p>
-
-</div>
-
-</body>
-
-</html>
