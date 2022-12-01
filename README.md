@@ -3217,8 +3217,8 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
 href="https://cyberleninka.ru/"><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>https://cyberleninka.ru/</span></a><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
-</span><a href="http://www.elibray.ru">www.elibray.ru<span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p></o:p></span>и
-другие.<o:p></o:p></span>
+</span><a href="http://www.elibray.ru">www.elibray.ru</a><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p></o:p></span> и
+другие.<o:p></o:p>
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>1)
