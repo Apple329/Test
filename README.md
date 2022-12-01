@@ -2908,7 +2908,7 @@ line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
 "Times New Roman",serif'>Именно этот вид поисковых инструментов является
 наиболее известным и популярным среди всех пользователей сети Интернет. У
 каждого на слуху названия известных машин веб-поиска (поисковых систем) – </span>Ya<span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>ndex</span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>ndex</span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
 </span>Google<span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
@@ -3000,9 +3000,7 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>полнота</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>полнота</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
@@ -3011,9 +3009,7 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>точность</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>точность</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
@@ -3022,9 +3018,7 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>актуальность</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>актуальность</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
@@ -3033,9 +3027,7 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>скорость поиска</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>скорость поиска</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
@@ -3225,16 +3217,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
 href="https://cyberleninka.ru/"><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>https://cyberleninka.ru/</span></a><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
-</span><a href="http://www.elibray.ru"><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>www</span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>.</span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>elibray</span></span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>.</span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>ru</span></span></a><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
-</span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>и
+</span><a href="http://www.elibray.ru">www.elibray.ru<span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>и
 другие.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
