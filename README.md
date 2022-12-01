@@ -2201,7 +2201,8 @@ ul
  </o:shapelayout></xml><![endif]-->
 </head>
 
-
+<body lang=RU link="#0563C1" vlink="#954F72" style='tab-interval:35.4pt;
+word-wrap:break-word'>
 
 <div class=WordSection1>
 
