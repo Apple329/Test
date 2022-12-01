@@ -3298,7 +3298,7 @@ style='mso-tab-count:1'>            </span>В статье рассм
 </span><a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959">https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959</a> Influence of metal sulfide coated steel fibers on the friction and wear performance of brake friction composites (Влияние стальных
 волокон, покрытых сульфидом металла, на трение и износостойкость тормозных
-фрикционных композитов)<o:p></o:p></span></p>
+фрикционных композитов)<o:p></o:p></p>
 
 <p class=MsoNormal style='text-align:justify;line-height:150%'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'><span
@@ -3341,9 +3341,7 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>выхлопной тормоз</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>выхлопной тормоз</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
@@ -3373,10 +3371,7 @@ Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>моторный тормоз <span class=SpellE>Джакобса</span>
-– </span><span class=SpellE><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>JakeBrake</span></span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
+– </span><span class=SpellE>JakeBrake</span>;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
@@ -3386,17 +3381,14 @@ style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-fam
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif'>моторный тормоз </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>MAN;</span><span style='font-size:12.0pt;line-height:
+font-family:"Times New Roman",serif'>моторный тормоз </span>MAN;<span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
 35.45pt;line-height:150%'><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Каждый из вариантов подробно описан в
 статье. Так, например, моторный тормоз <span class=SpellE>Джакобса</span> – </span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>JakeBrake</span></span><span
+class=SpellE>JakeBrake</span><span
 lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>предполагает
 снижение частоты вращения коленчатого вала (а как следствие и увеличение
@@ -3533,29 +3525,10 @@ font-family:"Times New Roman",serif'>Прекращение работы ABS п�
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>8)
-</span><a href="https://elibrary.ru/download/elibrary_34861411_52474191.pdf"><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>https</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>://</span><span class=SpellE><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>elibrary</span></span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>.</span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>ru</span></span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>/</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>download</span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>/</span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>elibrary</span></span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>_34861411_52474191.</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>pdf</span></a><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Иванов
+</span><a href="https://elibrary.ru/download/elibrary_34861411_52474191.pdf">https://elibrary.ru/download/elibrary_34861411_52474191.pdf</a> Иванов
 А. М, Использование прогнозирования коэффициента сцепления шин с опорной
 поверхностью для повышения эффективности действия опережающих систем
-экстренного торможения / А.М. Иванов, С.Р. Кристальный, М.А. Топорков <o:p></o:p></span></p>
+экстренного торможения / А.М. Иванов, С.Р. Кристальный, М.А. Топорков <o:p></o:p></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
 35.4pt;line-height:150%'><span style='font-size:12.0pt;line-height:150%;
