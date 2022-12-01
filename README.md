@@ -2679,9 +2679,9 @@ line-height:150%;font-family:"Times New Roman",serif'>ГЛАВА 1. ОБЩИЕ �
 
 <p class=MsoListParagraph align=center style='margin-top:12.0pt;margin-right:
 0cm;margin-bottom:0cm;margin-left:53.4pt;mso-add-space:auto;text-align:center;
-text-indent:-18.0pt;line-height:150%;mso-list:l10 level2 lfo2'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l10 level2 lfo2'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1.1.</span></span><![endif]><span
+mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1.1.</span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
 Поиск информации в сети интернет. Способы поиска информации<o:p></o:p></span></p>
 
