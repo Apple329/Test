@@ -2711,28 +2711,28 @@ font-family:"Times New Roman",serif'>Поисковые инструменты �
 выполняет определенную функцию:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>анализ веб-страниц и занесение результатов
 анализа на тот или иной уровень базы данных поискового сервера;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>поиск информации по запросу пользователя;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>обеспечение удобного интерфейса для поиска
 информации и просмотра результата поиска пользователем.<o:p></o:p></span></p>
 
@@ -2763,47 +2763,47 @@ font-family:"Times New Roman",serif'>Таким образом, если ука�
 необходимо помнить:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>слепое доверие к результатам, размещенным
 в сети, чревато ошибками;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>анонимные сведения не всегда бывают
 достоверными, т. к. их первоначальный источник установить достаточно трудно;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>найденную информацию лучше проверить повторно,
 путём запроса в сети отзывов и мнений по поводу найденных сведений;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>неожиданно появляющиеся и затем быстро
 исчезающие ресурсы не надежны;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>в сомнительных случаях необходимо
 обращаться к таким проверенным источникам, как сетевые энциклопедии,
 справочники и специальные учебные сайты;<o:p></o:p></span></p>
@@ -2866,28 +2866,28 @@ font-family:"Times New Roman",serif'>Различают 2 способа пои�
 сети Интернет:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>поиск с помощью поисковых машин;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:250%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:250%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:250%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:250%;
+</span></span></span><span style='font-size:12.0pt;line-height:250%;
 font-family:"Times New Roman",serif'>поиск в каталогах информационных ресурсов.<o:p></o:p></span></p>
 
 <p class=MsoListParagraph align=center style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:53.3pt;text-align:center;text-indent:-17.85pt;
-line-height:150%;mso-list:l10 level2 lfo2'><![if !supportLists]><span
+line-height:150%;mso-list:l10 level2 lfo2'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1.2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'><span
 style='mso-spacerun:yes'> </span>Поиск с помощью поисковых машин<o:p></o:p></span></p>
 
@@ -2922,20 +2922,20 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>.
 моменты:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>определитесь с темой запроса и конечным
 результатом поиска, который необходимо найти;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>обращайте внимание на язык, грамматику,
 использование различных небуквенных символов, морфологию. Важно также правильно
 сформулировать и вписать ключевые слова. Каждая поисковая система имеет свою
@@ -2945,21 +2945,21 @@ font-family:"Times New Roman",serif'>обращайте внимание на я
 услуг;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>используйте возможности разных поисковых
 систем. Если не нашли на Yandex, попробуйте на Google. Пользуйтесь услугами
 расширенного поиска;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>чтобы исключить документы, содержащие
 определенные термины, используйте знак &quot;-&quot; перед каждым таким словом,
 а для того, чтобы в результаты поиска обязательно включались определенные
@@ -2967,11 +2967,11 @@ font-family:"Times New Roman",serif'>чтобы исключить докуме�
 точности поиска, используйте комбинации этих символов.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>каждая ссылка в списке результатов поиска
 содержит <span class=SpellE>сниппет</span> – несколько строчек из найденного
 документа, среди которых встречаются ключевые слова, заданные в поисковом
@@ -2979,11 +2979,11 @@ font-family:"Times New Roman",serif'>каждая ссылка в списке �
 class=SpellE>сниппета</span> теме запроса.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>поисковые системы не производят
 самостоятельную информацию (за исключением разъяснений о самих себе). Поисковая
 система – это лишь посредник между обладателем информации (сайтом) и пользователем.
@@ -2999,55 +2999,55 @@ font-family:"Times New Roman",serif'>Стоит отметить, что на д
 характеристики, которые прямо или косвенно влияют на получаемый результат:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>полнота</span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>точность</span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>актуальность</span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>скорость поиска</span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 150%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l16 level1 lfo3'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>наглядность.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
@@ -3118,11 +3118,11 @@ font-family:"Times New Roman",serif'>Наглядность представле
 поиска в Интернете.<o:p></o:p></span></p>
 
 <p class=MsoListParagraph align=center style='margin-left:53.3pt;text-align:
-center;text-indent:-17.85pt;line-height:150%;mso-list:l10 level2 lfo2'><![if !supportLists]><span
+center;text-indent:-17.85pt;line-height:150%;mso-list:l10 level2 lfo2'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1.3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Поиск с помощью каталогов информационных
 ресурсов<o:p></o:p></span></p>
 
@@ -3178,22 +3178,22 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Д
 могут быть:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-indent:-18.0pt;line-height:150%;mso-list:l15 level1 lfo12'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l15 level1 lfo12'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>специализированными и включать только
 ссылки на сайты определенной, узкой тематики. Подобные каталоги удобны для
 поиска информации по конкретной тематике. Пример специализированного каталога:
 «Русский медицинский сервер».<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;mso-add-space:auto;
-text-indent:-18.0pt;line-height:150%;mso-list:l15 level1 lfo12'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l15 level1 lfo12'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>универсальными, которые позволяют
 производить поиск по различным темам. Информация сгруппирована по разделам.
 Каждый раздел имеет несколько подразделов.<o:p></o:p></span></p>
@@ -3461,11 +3461,11 @@ font-family:"Times New Roman",serif'>В статье рассматривают�
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>выхлопной тормоз</span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
@@ -3473,30 +3473,30 @@ mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>выхлопной тормоз с ограничителем давления;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>постоянный дроссель моторного тормоза <span
 class=SpellE>Konstantdrossel</span>;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>моторный тормоз <span class=SpellE>Джакобса</span>
 – </span><span class=SpellE><span lang=EN-US style='font-size:12.0pt;
 line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>JakeBrake</span></span><span
@@ -3506,11 +3506,11 @@ mso-ansi-language:EN-US'>;</span><span style='font-size:12.0pt;line-height:
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>моторный тормоз </span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ansi-language:EN-US'>MAN;</span><span style='font-size:12.0pt;line-height:
@@ -3534,21 +3534,21 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>отсутствия механизма регулировки мощности
 насосных потерь;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:42.55pt;mso-add-space:auto;text-align:justify;
-text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><![if !supportLists]><span
+text-indent:-18.0pt;line-height:150%;mso-list:l13 level1 lfo13'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>негативное влияние на срок службы и ресурс
 ДВС;<o:p></o:p></span></p>
 
@@ -3625,32 +3625,32 @@ style='mso-tab-count:1'>            </span>Проведенные а�
 экспериментальные исследования позволили установить следующие закономерности:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l3 level1 lfo15'><![if !supportLists]><span
+text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l3 level1 lfo15'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>При торможении на не укатанном снегу
 тормозной путь автомобиля на зимних шинах с работающей ABS может сокращаться до
 13% и более. С увеличением начальной скорости торможения эта цифра
 увеличивается<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;mso-add-space:
-auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l3 level1 lfo15'><![if !supportLists]><span
+auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l3 level1 lfo15'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>При торможении на покрытии с низким
 коэффициентом сцепления (укатанный снег) тормозной путь автомобиля с работающей
 ABS увеличивается на 15%-18% и более.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt;
-line-height:150%;mso-list:l3 level1 lfo15'><![if !supportLists]><span
+line-height:150%;mso-list:l3 level1 lfo15'><span
 style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Прекращение работы ABS приводит к
 блокировке тормозящих колёс, нарушению устойчивости и управляемости автомобиля,
 а отсутствие регуляторов тормозных сил на автомобилях с ABS еще больше усугубляет
@@ -3822,21 +3822,21 @@ line-height:150%;font-family:"Times New Roman",serif'>СПИСОК ИСПОЛЬ�
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Гусев, В.С. Google. Эффективный поиск /
 В.С. Гусев. – Москва, Санкт - Петербург, Киев.: Диалектика, 2007г. – 238 с.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Иванова, С.М. Система поиска и анализа
 достоверной информации в сети Интернет. – С.М. Иванова, З.В. <span
 class=SpellE>Ильиченкова</span>. – Вестник Брянского государственного
@@ -3844,43 +3844,43 @@ class=SpellE>Ильиченкова</span>. – Вестник Брянског�
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Кузьмин, А.В. Поиск в Интернете / А.В.
 Кузьмин, Н.Н. Золотарева. – Санкт -Петербург.: Издательство <span class=SpellE>НиТ</span>,
 2006г. – 160 с.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Рушди, А.А. Методы распределенного поиска
 информации в сети Интернет. – Компьютерные инструменты в образовании, № 3-4,
 2001 г. – с. 111 – 119. <o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>5.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>М.С. Марина. Поисковая система Яндекс. – Вестник
 магистратуры. 2014. №4(31). Том I. – с. 78 – 81.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Старченко, В. Н. Повышение эффективности
 торможения использованием новых углерод-композиционных материалов / В. Н.
 Старченко, Н. В. Казачков. — <span class=GramE>Текст :</span> непосредственный
@@ -3889,11 +3889,11 @@ https://moluch.ru/archive/311/70623/ (дата обращения: 30.11.2022).<
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>7.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:12.0pt;
+</span></span></span><span class=SpellE><span style='font-size:12.0pt;
 line-height:150%;font-family:"Times New Roman",serif'>Куюков</span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
 Вадим Вадимович, Шинкаренко Александр Андреевич, Катков Вадим Валерьевич, <span
@@ -3906,11 +3906,11 @@ https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-transpor
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>8.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:150%;
+</span></span></span><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman",serif'>Зотов В.М., <span class=SpellE>Хавронина</span>
 В.Н., Шишкина Е.В., <span class=SpellE>Бумагин</span> В.В. Повышение
 эффективности торможения колёсного транспортного средства, снабжённого
@@ -3920,11 +3920,11 @@ https://cyberleninka.ru/article/n/povyshenie-effektivnosti-tormozheniya-kolyosno
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
+</span></span></span><span lang=EN-US style='font-size:12.0pt;
 line-height:150%;font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>R.
 Vijay, B. Surya <span class=SpellE>Rajan</span>, K. <span class=SpellE>Sathickbasha</span>,
 P. <span class=SpellE>Hariharasakthisudhan</span>, D. Lenin <span class=SpellE>Singaravelu</span>,
@@ -3945,10 +3945,10 @@ mso-ansi-language:EN-US'> 30.11.2022)<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>10.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Аль-<span
 class=SpellE>Сумайдаи</span>, Ф. Р. Повышение эффективности торможения
 автомобиля увеличением мощности насосных потерь в автомобильном двигателе / Ф.
@@ -3963,10 +3963,10 @@ mso-ansi-language:EN-US'>MUNPFX</span><span style='font-size:12.0pt;line-height:
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>11.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Кокарев,
 О. П. Исследование влияния режимов работы тормозных механизмов на надежность
 элементов тормозной системы / О. П. Кокарев, А. Г. Кириллов, Р. В. Нуждин //
@@ -3975,10 +3975,10 @@ QLQCBK.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>12.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Федотов
 Александр Иванович, <span class=SpellE>Громалова</span> Виктория Олеговна
 Влияние работы <span class=SpellE>abs</span> на тормозную эффективность и
@@ -3989,10 +3989,10 @@ https://cyberleninka.ru/article/n/vliyanie-raboty-abs-na-tormoznuyu-effektivnost
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>13.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Иванов,
 А. М. Использование прогнозирования коэффициента сцепления шин с опорной
 поверхностью для повышения эффективности действия опережающих систем
@@ -4001,10 +4001,10 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>И
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>14.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 class=SpellE><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Метто</span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
 А. А., Билык О. В., Сазонов И. С., Ким В. А., Рогожин В. Д. Повышение
@@ -4016,10 +4016,10 @@ https://cyberleninka.ru/article/n/povyshenie-effektivnosti-funktsionirovaniya-el
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:21.3pt;mso-add-space:auto;text-align:justify;
-text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><![if !supportLists]><span
+text-indent:-21.3pt;line-height:150%;mso-list:l8 level1 lfo16'><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>15.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>Захаров
 А.В., Сапун Л.Г., Захарова И.О., <span class=SpellE>Костенич</span> В.Г.
 ПОВЫШЕНИЕ ЭФФЕКТИВНОСТИ ТОРМОЗНОЙ СИСТЕМЫ ТРАКТОРА КЛАССА 5 ПРИ РАБОТЕ В
