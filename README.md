@@ -3224,7 +3224,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>1)
 </span><a href="https://www.elibrary.ru/item.asp?id=42901768">www.elibrary.ru/item.asp?id=42901768</a>
 Старченко, В. Н. Повышение эффективности торможения использованием новых
-углерод-композиционных материалов / В. Н. Старченко, Н. В. Казачков.<o:p></o:p></span></p>
+углерод-композиционных материалов / В. Н. Старченко, Н. В. Казачков.<o:p></o:p></p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:35.4pt;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>В
@@ -3296,89 +3296,7 @@ style='mso-tab-count:1'>            </span>В статье рассм
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>4)
 </span><a
-href="https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959"><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>https</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>://</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>www</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>.</span><span class=SpellE><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>sciencedirect</span></span><span style='font-size:
-12.0pt;line-height:150%;font-family:"Times New Roman",serif'>.</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>com</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>/</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>science</span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>/</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>article</span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>/</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>abs</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>/</span><span class=SpellE><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>pii</span></span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>/</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>S</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>0301679</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>X</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>22004959</span></a><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'> </span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>Influence</span><span lang=EN-US style='font-size:
-12.0pt;line-height:150%;font-family:"Times New Roman",serif'> </span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>of</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>metal</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>sulfide</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>coated</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>steel</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>fibers</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>on</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>the</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>friction</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>and</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>wear</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>performance</span><span lang=EN-US style='font-size:
-12.0pt;line-height:150%;font-family:"Times New Roman",serif'> </span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>of</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>brake</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>friction</span><span lang=EN-US style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> </span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>composites</span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'> (Влияние стальных
+href="https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959">https://www.sciencedirect.com/science/article/abs/pii/S0301679X22004959</a> Influence of metal sulfide coated steel fibers on the friction and wear performance of brake friction composites (Влияние стальных
 волокон, покрытых сульфидом металла, на трение и износостойкость тормозных
 фрикционных композитов)<o:p></o:p></span></p>
 
