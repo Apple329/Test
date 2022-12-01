@@ -3222,29 +3222,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>),
 
 <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>1)
-</span><a href="https://www.elibrary.ru/item.asp?id=42901768"><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>https</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>://</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>www</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>.</span><span class=SpellE><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>elibrary</span></span><span style='font-size:12.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>.</span><span
-class=SpellE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>ru</span></span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>/</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>item</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>.</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>asp</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>?</span><span lang=EN-US
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>id</span><span style='font-size:12.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>=42901768</span></a><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>
+</span><a href="https://www.elibrary.ru/item.asp?id=42901768">www.elibrary.ru/item.asp?id=42901768</a>
 Старченко, В. Н. Повышение эффективности торможения использованием новых
 углерод-композиционных материалов / В. Н. Старченко, Н. В. Казачков.<o:p></o:p></span></p>
 
